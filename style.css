@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: "Mukta", sans-serif;
+    }
 .cabecalho {
     background-color: #424E61;
     color: white;
@@ -20,7 +23,7 @@
 }
 
 .school-imagem{
-    width: 25%
+    width: 20%
 }
 
 .escola{
@@ -35,5 +38,8 @@
     width: 35%;
 }
 .escola-titulo{
-    padding: 23px 0;
+    padding: 25px 0;
+}
+.estudante-imagem{
+    width: 120px;
 }
